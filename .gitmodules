@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "qdfauction"]
+	path = qdfauction
+	url = https://github.com/doostih/qdfauction
 [submodule "tiltdens"]
 	path = tiltdens
 	url = https://github.com/doostih/tiltdens
